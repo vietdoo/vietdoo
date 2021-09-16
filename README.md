@@ -4,5 +4,5 @@
 I am a junior student who majoring in Data Science at the VNU-HCM, University of Science. 
 My fields of interest are Data Science and Computer Vision especially in Digital Image & Video processing. Currently, I'm focusing on Deep Learning with Convolution Neural Networks. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietdoo)](https://github.com/anuraghazra/github-readme-stats)
 
