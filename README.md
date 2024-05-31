@@ -12,7 +12,7 @@ My strengths are determination, quick learning, and teamwork. I'm eager to grow 
 [![My Skills](https://skillicons.dev/icons?theme=light&i=next,react,fastapi,flask,selenium,qt,opencv)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?theme=light&i=cloudflare,docker,git,linux,nginx)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietdoo&bg_color=101010&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vietdoo&bg_color=101010&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
     <a href="https://leetcode.com/vietdoo/"><img width="48%" src="https://leetcode.card.workers.dev/vietdoo?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
