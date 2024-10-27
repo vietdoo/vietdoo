@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Đỗ Quốc Việt</h1>
-<h3 align="center">A passionate developer from HCM City, Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Do Quoc Viet</h1>
+<h3 align="center">A passionate developer from Ho Chi Minh City, Vietnam</h3>
 
 
 Hi, I'm Viet, a developer and graduate of VNU-HCMUS. I’m passionate about using data and technology to address real-world challenges. My expertise spans App Development, Machine Learning, and Big Data, supported by a solid background in competitive programming. I'm a dedicated, collaborative team player, always eager to learn and grow.
