@@ -2,9 +2,7 @@
 <h3 align="center">A passionate developer from HCM City, Vietnam</h3>
 
 
-Hi, I'm Do Quoc Viet, a Data Science major at the University of Science, VNU-HCM. My journey began with competitive programming and has evolved into a focus on App Development, Machine Learning and Big Data.
-
-My strengths are determination, quick learning, and teamwork. I'm eager to grow further in Data Engineering.
+Hi, I'm Viet, a developer and graduate of VNU-HCMUS. I’m passionate about using data and technology to address real-world challenges. My expertise spans App Development, Machine Learning, and Big Data, supported by a solid background in competitive programming. I'm a dedicated, collaborative team player, always eager to learn and grow.
 
 [![My Skills](https://skillicons.dev/icons?theme=light&i=python,js,php,c,cpp,ts,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?theme=light&i=aws,gcp,azure)](https://skillicons.dev)
