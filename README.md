@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Ho Chi Minh City, Vietnam</h3>
 
 
-Hi! I'm **Viet** 👋 — Data & Software Engineer (3+ YOE).
+Hi! I'm **Viet** 👋 — Data & Software Engineer (<!-- YOE_START -->3<!-- YOE_END -->+ YOE).
 
-Over the past 3+ years, I've focused on building robust data pipelines, machine learning solutions, and software applications. Grounded in competitive programming and a Data Science background from **VNU-HCMUS**, I transform complex data challenges into high-performance tech solutions.
+Over the past <!-- YOE_START -->3<!-- YOE_END -->+ years, I've focused on building robust data pipelines, machine learning solutions, and software applications. Grounded in competitive programming and a Data Science background from **VNU-HCMUS**, I transform complex data challenges into high-performance tech solutions.
 
 [![My Skills](https://skillicons.dev/icons?theme=light&i=python,java,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?theme=light&i=postgres,mongodb,redis,kafka,elasticsearch)](https://skillicons.dev)

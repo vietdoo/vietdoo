@@ -1,0 +1,48 @@
+name: Update Years of Experience
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Run on the 1st of every month
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  update-yoe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate YOE and update README
+        run: |
+          START_YEAR=2023
+          START_MONTH=5
+
+          CURRENT_YEAR=$(date +'%Y')
+          CURRENT_MONTH=$(date +'%m')
+
+          # Remove leading zeros to prevent octal evaluation
+          CURRENT_MONTH=$((10#$CURRENT_MONTH))
+
+          YOE=$((CURRENT_YEAR - START_YEAR))
+
+          if [ "$CURRENT_MONTH" -lt "$START_MONTH" ]; then
+            YOE=$((YOE - 1))
+          fi
+
+          echo "Calculated YOE: $YOE"
+
+          # Update README.md
+          sed -i "s/<!-- YOE_START -->[0-9]*<!-- YOE_END -->/<!-- YOE_START -->$YOE<!-- YOE_END -->/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Check if there are any changes
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update years of experience in README.md"
+            git push
+          else
+            echo "No changes to commit"
+          fi
